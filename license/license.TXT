@@ -21,7 +21,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 5. Any redistributed modified or derivative works in source code form must be licensed under the same FREES Permissive License (FPL), ensuring continued openness of the source code.
 
-5.1. You must use the latest version of the FPL license (to avoid any legal loopholes) the latest version is available [here](https://raw.githubusercontent.com/FREES-Foundation/FREES/refs/heads/main/license/license.TXT)
+5.1. You must use the latest version of the FPL license (to avoid any legal loopholes) the latest version is available here: https://raw.githubusercontent.com/FREES-Foundation/FREES/refs/heads/main/license/license.TXT
 
 /// DISCLAIMER
 

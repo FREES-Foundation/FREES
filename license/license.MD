@@ -1,4 +1,4 @@
-# FREES Permissive License (FPL)
+# FREES Permissive License (FPL) v1.1
 
 Copyright (c) [YEAR], [AUTHOR]
 All rights reserved.
@@ -12,6 +12,10 @@ Redistribution and use in source and binary forms, with or without modification,
 3. Neither the name of the author nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 4. The redistribution of modified or derivative works in **binary-only** or **closed-source** form is prohibited unless explicit, written permission is granted by the original author. To obtain such permission, you must contact the author directly via email or through another mutually agreed channel and receive a signed authorization.
+
+5. Any redistributed modified or derivative works in source code form must be licensed under the same FREES Permissive License (FPL), ensuring continued openness of the source code.
+
+5.1. You must use the latest version of the FPL license (to avoid any legal loopholes) the latest version is available here: https://raw.githubusercontent.com/FREES-Foundation/FREES/refs/heads/main/license/license.MD
 
 ## DISCLAIMER
 
