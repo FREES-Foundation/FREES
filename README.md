@@ -1,4 +1,4 @@
-# FREES Permissive License (FPL)
+# FREES Copyleft License (FCL)
 
 **FREES** stands for **Fights Restrictions, Embraces and Encourages Sharing**.
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-The FREES Permissive License (FPL) is a permissive open-source license, controlling redistribution of closed-source forks.
+The FREES Copyleft License (FCL) is a copyleft open-source license, controlling redistribution of closed-source forks.
 
 It allows:
 
@@ -15,13 +15,6 @@ It allows:
 - Use of the license without removing attribution or copyright notices.
 
 This license aims to promote software freedom while maintaining control over proprietary forks.
-
----
-
-## Why FREES?
-
-FPL combines the openness and permissiveness of BSD-style licenses with a safeguard against unapproved closed-source forks.  
-It encourages collaboration and sharing while allowing the author to grant exceptions for proprietary versions if needed.
 
 ---
 
@@ -48,4 +41,4 @@ THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 ---
 
-© 2025 Russian95. All rights reserved.
+© 2025 FREES Fo. All rights reserved.
